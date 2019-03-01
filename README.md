@@ -12,6 +12,7 @@
 
  ## Bonus
  * Pruebas unitarias con JestJS
+ * Una charla motivacional
 
 ## Herramientas
 * Crear una cuenta en [netlify](https://www.netlify.com/)
