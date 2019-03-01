@@ -11,7 +11,7 @@
 * Conclusiónes
 * preguntas y respuestas
 
- ## Bonus
+ ## Extras
  * Pruebas unitarias con JestJS
  * Charla motivacional
 
