@@ -8,11 +8,12 @@
 * Preparar un entorno de desarrollo para ReactJS
 * Empezar con el proyecto
 * Deployar a netlify
+* Conclusiónes
 * preguntas y respuestas
 
  ## Bonus
  * Pruebas unitarias con JestJS
- * Una charla motivacional
+ * Charla motivacional
 
 ## Herramientas
 * Crear una cuenta en [netlify](https://www.netlify.com/)
