@@ -12,3 +12,10 @@
 
  ## Bonus
  * Pruebas unitarias con JestJS
+
+## Herramientas
+* Crear una cuenta en [netlify](https://www.netlify.com/)
+* Crear una cuenta en [github](https://github.com)
+* Descargar [Visual Code](https://code.visualstudio.com/) o [Atom](https://atom.io/)
+* Descargar [Git](https://git-scm.com/)
+* Descargar [Nodejs](https://nodejs.org/es/)
